@@ -1,0 +1,25 @@
+.custom-form {
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+.payment-cards {
+    background-color: rgb(108, 117, 125);
+    width: 40%;
+    border-radius: 2px;
+    display: flex;
+}
+
+.body{
+    font-family: 'Jost', sans-serif , bold;
+}
+
+.contenedor{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.button{
+    text-align: right;
+}
